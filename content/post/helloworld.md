@@ -1,6 +1,5 @@
 +++
 title = "Hello World!"
-type = "posts"
 date = "2020-06-24"
 author = "Leo"
 description = "I made a website and I want to talk about it for some reason."
