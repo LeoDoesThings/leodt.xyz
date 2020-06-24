@@ -1,22 +1,21 @@
 +++
 title = "About"
-date = "2019-01-25"
-author = "Radek"
+date = "2020-06-24"
+author = "Leo"
 +++
 
 # Hi there
 
-My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
+My name is Leo, but I go by *LeoDT* or *LeoDoesThings* online.  
+  
+I make stuff. 
+  
+In my spare time I like to code and in 2018 I decided to make some of my stuff open-source on GitHub. 
+  
+Some of my biggest projects are:
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+- [**ShpeeBot**](https://github.com/LeoDoesThings/ShpeeBot) which is a pretty cool multipurpose Discord bot!
+- A yet to be released game! 😲
 
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
-
-The theme includes:
-
-- **5 duotone themes**, depending on your preferences (orange, red, blue, green, pink)
-- [**Fira Code**](https://github.com/tonsky/FiraCode) as default monospaced font. It's gorgeous!
-- **really nice, custom duotone** syntax highlighting based on [**PrismJS**](https://prismjs.com)
-- mobile friendly layout
-
-So, there you have it... enjoy!
+So, that's it.  
+I know. I'm pretty boring.
