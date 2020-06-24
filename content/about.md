@@ -1,7 +1,5 @@
 +++
 title = "About"
-date = "2020-06-24"
-author = "Leo"
 +++
 
 # Hi there
