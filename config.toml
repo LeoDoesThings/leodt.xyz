@@ -46,7 +46,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "LeoDoesThings"
+    title = "LeoDT"
     subtitle = "A pretty weird guy"
     owner = "LeoDT"
     keywords = ""
