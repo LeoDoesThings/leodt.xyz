@@ -2,7 +2,7 @@
 title = "New GitHub Design + ShpeeBot v9 in the works!"
 date = "2020-06-25"
 author = "Leo"
-description = "I took a break from GitHub and now it looks so different"
+description = "I took a break from GitHub and it looks so different now"
 +++
 
 ### GitHub design overhaul???
