@@ -3,7 +3,7 @@ title = "ShpeeBot v9 Development Status Update"
 date = "2020-07-25"
 author = "Leo"
 description = "I've been working and Shpee and playing Valorant."
-cover = "shpeev9dashboard.png"
+cover = "img/shpeev9dashboard.png"
 +++
 
 **WHERE IS SHPEE VERSION 9???**  
